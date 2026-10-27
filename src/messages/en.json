@@ -1,0 +1,35 @@
+{
+  "Metadata": {
+    "title": "Miqat festival panel",
+    "titleTemplate": "%s | Miqat panel",
+    "description": "Participant and admin panel of the Miqat Cultural and Art Festival"
+  },
+  "Common": {
+    "skipToContent": "Skip to main content",
+    "festival": "Cultural and Art Festival",
+    "wordmark": "Miqat",
+    "language": "Change language"
+  },
+  "NotFound": {
+    "title": "Page not found",
+    "text": "The page you were looking for does not exist in the panel.",
+    "home": "Back to the panel"
+  },
+  "Panel": {
+    "name": "Participant panel",
+    "logout": "Sign out",
+    "backToSite": "Back to the site",
+    "login": {
+      "title": "Sign in to the panel",
+      "text": "Enter your ten-digit national ID to sign in.",
+      "nationalId": "National ID",
+      "submit": "Sign in",
+      "pending": "Signing in…",
+      "errors": {
+        "required": "Enter your national ID.",
+        "short": "A national ID has ten digits.",
+        "invalid": "This national ID is not valid; check the digits again."
+      }
+    }
+  }
+}
